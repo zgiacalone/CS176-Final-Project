@@ -1,3 +1,7 @@
+img {
+    border: 5px solid black;
+}
+
 .patsinfo {
     border: 1px solid black;
     border-radius: 10px;
@@ -151,8 +155,4 @@ p {
     padding: 1em 1.5em;
     margin-bottom: 10px;
     margin-top: 10px;
-}
-
-img {
-    border: 5px solid black;
 }
