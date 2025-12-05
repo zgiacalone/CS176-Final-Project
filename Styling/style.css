@@ -3,9 +3,7 @@ img {
 }
 
 body{
-    background-image: url('./Images/patslogob.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: rgb(6, 6, 68);
 }
 
 .patsinfo {
