@@ -38,15 +38,6 @@ h2 {
     background-color: lightslategray;
 }
 
-.Stats{
-    border: 1px solid black;
-    border-radius: 10px;
-    padding: 1em 1.5em;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    background-color: lightslategray;
-}
-
 .Directions{
     flex: 1;
     padding: 1em 1.5em;
