@@ -148,3 +148,26 @@ p {
 .dropdown:hover .drop-content {
     display: block;
 }
+
+@media print{
+  body{
+    background-color: white;
+    color: black;
+  }
+
+  .navbar{
+    display: none;
+  }
+
+  p{
+    color:black;
+  }
+
+  h1{
+    color: black;
+  }
+
+  h3{
+    color: black;
+  }
+}
